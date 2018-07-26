@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-ft": "1.1.3",
+		"derelict-util": "2.0.6",
+		"erupted": "2.0.4+v1.1.76"
+	}
+}
