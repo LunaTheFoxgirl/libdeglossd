@@ -1,0 +1,2 @@
+# libdeglossd
+Small side project
